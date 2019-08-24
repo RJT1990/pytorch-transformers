@@ -10,3 +10,4 @@ requests
 regex
 # For XLNet
 sentencepiece
+torchbench
